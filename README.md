@@ -1,2 +1,2 @@
-# HR
+# HackerRank
 HackerRank Puzzles
