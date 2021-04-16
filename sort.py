@@ -1,0 +1,5 @@
+refNums = list(input())
+#refNums = #[S410, S278, S115, S161, B388, B500, B314, B752, B771, S121, B966, S867, S412, S533, S829, U333, U429, U638, S376, U800,
+           #U132, S410, S278, S115, S161, B388, B500, B314, B752, B771, S121, B966, S867, S412, S533, S829, U333, U429, U638, S376, U800, U132]
+sort = refNums.sorted()
+print(sort)
