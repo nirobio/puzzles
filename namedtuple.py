@@ -10,4 +10,4 @@ for i in range(N):
     student = Student(*row)
     sum += int(student.MARKS)
 
-print(sum/N)
+print(sum)
