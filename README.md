@@ -1,2 +1,2 @@
-# HackerRank
-HackerRank Puzzles
+# DS&A Puzzles
+A few problems from AoC, HackerRank, Leetcode...
